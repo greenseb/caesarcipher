@@ -20,10 +20,10 @@ body {
 h1 {
     color: greenyellow;
     font-family: 'Press Start 2P', cursive;
-    border-bottom: 5px solid greenyellow;
+    border: none;
     padding: 20px;
     margin-top: 0;
-    font-size: 3em;
+    font-size: 2.8em;
     font-weight: 100;
 }
 
